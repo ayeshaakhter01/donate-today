@@ -1,3 +1,85 @@
-h1 {
-    color: red;
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+
+.style1 {
+    background-image: url(images/donation13.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    max-width: auto;
+    height: 600px;
+    text-align: center;
+}
+
+.center {
+    align-items: center;
+    padding-top: 150px;
+}
+
+.h1-style {
+    font-size: 50px;
+    color: white;
+    align: center;
+
+}
+
+#p-style {
+    color: white;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-weight: 700;
+}
+
+#style2 {
+    text-align: center;
+    padding: 50px;
+}
+
+.p-style2 {
+    color: rgb(117, 110, 110);
+}
+
+.tk-flex {
+
+    display: flex;
+    margin: 0 auto;
+    padding-left: 300px;
+    padding-top: 15px;
+
+}
+
+.width {
+    width: 120px;
+    height: 80px;
+    padding-top: 40px;
+    margin: 5px;
+    background-color: rgb(241, 234, 234);
+    text-align: center;
+    font-weight: 1000;
+    font-size: 25px;
+    color: rgb(112, 107, 107)
+}
+
+.p-style2 {
+    color: rgb(117, 110, 110);
+    padding-top: 25px;
+
+}
+
+.hr-style {
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 100px;
+
 }
