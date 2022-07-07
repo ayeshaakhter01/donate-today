@@ -130,6 +130,10 @@ body {
 
 .from {
     padding-top: 50px;
+
+    dixplay: flex;
+    gap: 0;
+    justify-content: center;
 }
 
 footer {
@@ -144,4 +148,23 @@ footer {
 
 footer h2 {
     color: orangered;
+}
+
+.flex2 {
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.flex-style {
+    width: 200px;
+    height: 200px;
+    margin: 0;
+
+
+}
+
+.flex-style img {
+    height: 200px;
+    width: 200px;
 }
